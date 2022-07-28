@@ -1,0 +1,40 @@
+body{
+    background-color: hsla(89, 43%, 51%, 0.3);
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  h1, #title{
+    text-shadow: 5px 5px 10px violet;
+    text-align: center;
+    font-size: 3em;
+    bottom: 0;
+  }
+  blockquote{
+    top: 0;
+  }
+  img{
+    margin: center;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 80%;
+    
+    
+  }
+  #main{
+    font-family: sans-serif;
+    
+  }
+  div #tribute-inf{
+    box-shadow: 20px 20px 15px yellow;
+    background-color: gray;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: justify;
+  }
+  #title-hed{
+    text-align: center;
+    color: red;
+    text-shadow: 5px 5px 10px black;
+  }
+  
